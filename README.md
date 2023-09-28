@@ -1,8 +1,3 @@
-# leaflet_challenge
- 6/30 plotted earthquake coordinates.
-
- 7/7 created basemap and topographical layers, legend, and changed markers to circles. help from TA.
-
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m15/lms/img/banner.jpg" alt="lesson banner" />
 
 ### Background
@@ -29,3 +24,8 @@ Complete the following steps:
    * Create a legend that will provide context for your map data.
 
    * Your visualization should look something like the preceding map.
+  
+
+
+ ## References 
+ Dataset created by [the United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
